@@ -4,4 +4,4 @@ Tried to re-do some problems that you already have solved and find you can't ran
 
 Try this python program!
 
-It gives you a random question that you recently didn't solve!
+It gives you a random question that you recently **didn't** solve and **track** your recently solved problems!
